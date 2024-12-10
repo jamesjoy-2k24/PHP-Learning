@@ -1,4 +1,5 @@
-<?php
+<!-- <?php
+/*
 // 01. Sum of First 10 Natural Numbers
 $total = 0;
 for ($i = 0; $i <= 10; $i++) {
@@ -28,11 +29,10 @@ for ($i = 1; $i <= 5; $i++) {
 echo $total . "<br>";
 
 // 05. Array Element Sum
-$numArray = array('')
-
 // 06. Reverse Array
 // 07. Pattern Printing
 // 08. Prime Numbers
 // 09. FizzBuzz
 // 10. Nested Loops - Multiplication Table
-?>
+*/
+?> -->
